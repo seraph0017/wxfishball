@@ -1,0 +1,20 @@
+{
+    "pages": [
+        "pages/list/list",
+        "pages/detail/detail",
+        "pages/login/login",
+        "pages/photo/photo"
+    ],
+    "window": {
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "鱼丸札记",
+        "navigationBarBackgroundColor": "#F8F8F8",
+        "backgroundColor": "#F8F8F8"
+    },
+    "permission": {},
+    "uniStatistics": {
+        "enable": true
+    },
+    "usingComponents": {},
+    "sitemapLocation": "sitemap.json"
+}

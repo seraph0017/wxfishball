@@ -1,0 +1,1 @@
+<view><camera mode="normal" device-position="back" flash="off" class="M-camera"></camera></view><view class="M-photo-btn"><uni-icons wx:if="{{b}}" bindclick="{{a}}" u-i="d58e2262-0" bind:__l="__l" u-p="{{b}}"></uni-icons></view>
